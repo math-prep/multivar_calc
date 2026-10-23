@@ -1,6 +1,6 @@
 {
-  "catalog_sha256": "dba92727b9a4526a5d7b274eebed2c528e9af7364fee2263ece5ef70161fdd75",
-  "database_sha256": "dcf74bca4e5228b449b1fb2b93c3b177312cd09e002dce860da9efa2cd86c3cb",
+  "catalog_sha256": "002715736458b6322af211a97043f7d44ef0419fb055f04ab23b78f29a9a1ef0",
+  "database_sha256": "4091351d769a9e4f9f095aa4eb7df6a6834c619634fc844ef34a91213ee68452",
   "scope": {
     "lessons": [
       17,
@@ -35,6 +35,6 @@
       2026
     ]
   },
-  "guided_steps": 378,
+  "guided_steps": 385,
   "concept_checks": 264
 }
