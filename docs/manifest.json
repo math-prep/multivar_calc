@@ -1,6 +1,6 @@
 {
-  "catalog_sha256": "002715736458b6322af211a97043f7d44ef0419fb055f04ab23b78f29a9a1ef0",
-  "database_sha256": "4091351d769a9e4f9f095aa4eb7df6a6834c619634fc844ef34a91213ee68452",
+  "catalog_sha256": "51e4c9b8239df2455e33a4c27a9325f5a3dd237d3097bcd41fe64d7471ab7ea6",
+  "database_sha256": "05b2b3a3c6b11ad26f6a4db658fd0af8979a493da7131259d784ecda999588e3",
   "scope": {
     "lessons": [
       17,
@@ -22,6 +22,8 @@
     "exam_questions": 56,
     "mit_examples": 70,
     "items": 88,
+    "worked_questions": 202,
+    "concept_walkthroughs": 264,
     "years": [
       2024,
       2025
