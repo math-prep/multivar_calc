@@ -14,4 +14,8 @@
 
 .walkthrough-figure{overflow-x:auto}.walkthrough-figure .math-diagram{min-width:420px}
 
+.review-visual .diagram-box{max-width:650px;margin:20px auto}.review-visual .diagram-label{font-size:13px}.review-visual .formula-box .katex-display{font-size:.9em}
+@media(max-width:650px){.review-visual .diagram-label{font-size:10px}.review-visual .diagram-box{padding:0!important}}
+@media print{.review-visual .diagram-label{font-size:9px}.review-visual .diagram-box{break-inside:avoid}.cheat-tool.review-visual{break-inside:avoid-page}.review-visual .math-diagram{print-color-adjust:exact}}
+
 .diagram-label.formula-label{width:88%;max-width:88%;white-space:normal}.worked-solution{margin:24px 0;padding:18px;border:1px solid var(--line);border-radius:12px;background:var(--white)}.worked-solution>summary{font-weight:650;color:var(--green);font-size:18px}.worked-steps{list-style:none;padding:0;margin:18px 0}.worked-steps>li{margin:12px 0}.worked-step{border:1px solid var(--line);border-radius:10px;padding:14px;background:var(--white)}.worked-step>summary{font-weight:550;line-height:1.6}.worked-rule{margin:16px 0}.concept-worked{margin:18px 0}.worked-step .formula-box{overflow-x:auto}.worked-step .diagram-box{overflow-x:auto}.worked-step .diagram-label{background:#fafbf7}.worked-solution .katex-display{max-width:100%}
